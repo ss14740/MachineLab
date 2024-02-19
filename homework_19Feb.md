@@ -9,6 +9,11 @@ Prototype
 - 
 ![WhatsApp Image 2024-02-19 at 11 32 01](https://github.com/ss14740/MachineLab/assets/98390888/39c4e80f-7152-47c2-853b-9955c0d85f80)
 
+Videos
+- 
+https://github.com/ss14740/MachineLab/assets/98390888/d5218960-64cf-4aca-8d03-9235c2f7b753
+https://github.com/ss14740/MachineLab/assets/98390888/302b3d44-d53c-4e08-8718-074000301e14
+
 Electrification of Tracks
 - 
 - car would not be solely dependent on gravity
