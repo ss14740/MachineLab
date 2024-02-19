@@ -1,5 +1,6 @@
 Prototype 
 - 
+![WhatsApp Image 2024-02-19 at 11 32 01](https://github.com/ss14740/MachineLab/assets/98390888/39c4e80f-7152-47c2-853b-9955c0d85f80)
 
 
 Electrification of Tracks
@@ -18,7 +19,10 @@ Execution
 
 Take-Aways
 - 
-- 
+- copper strips led to disconnections
+- motors need to be in parallel
+- speed was satisfactory
+- motors led to disconnections 
 
 Resolution of Disconnection
 - 
