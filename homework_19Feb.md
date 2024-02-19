@@ -1,16 +1,9 @@
 ## Sketches
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-![Image 1](https://github.com/ss14740/MachineLab/assets/98390888/deb12514-699a-457f-8537-cf8f20d0c793){: style="width: 48%; margin-bottom: 10px;"}
-
-![Image 2](https://github.com/ss14740/MachineLab/assets/98390888/f9491705-713a-498b-886a-898d05dc2254){: style="width: 48%; margin-bottom: 10px;"}
-
-![Image 3](https://github.com/ss14740/MachineLab/assets/98390888/5f46d4a0-befe-4afb-971e-c962c1ada97e){: style="width: 48%; margin-bottom: 10px;"}
-
-![Image 4](https://github.com/ss14740/MachineLab/assets/98390888/1efdec2a-6889-45d7-9670-05ebfb2eb445){: style="width: 48%; margin-bottom: 10px;"}
-
-</div>
+![WhatsApp Image 2024-02-19 at 14 03 45](https://github.com/ss14740/MachineLab/assets/98390888/deb12514-699a-457f-8537-cf8f20d0c793)
+![WhatsApp Image 2024-02-19 at 14 03 59](https://github.com/ss14740/MachineLab/assets/98390888/f9491705-713a-498b-886a-898d05dc2254)
+![WhatsApp Image 2024-02-19 at 14 04 06](https://github.com/ss14740/MachineLab/assets/98390888/5f46d4a0-befe-4afb-971e-c962c1ada97e)
+![WhatsApp Image 2024-02-19 at 14 05 09](https://github.com/ss14740/MachineLab/assets/98390888/1efdec2a-6889-45d7-9670-05ebfb2eb445)
 
 ## Prototype 
  
