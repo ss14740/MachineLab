@@ -9,7 +9,7 @@ Tracks
 Rollercoaster Car
 -
 - Finished design of car, included removable cover for the motors
-- Laser cut a cardobard prototype
+- Laser cut a cardboard prototype
 
 ![WhatsApp Image 2024-03-07 at 20 25 32](https://github.com/ss14740/MachineLab/assets/98390888/508f05b2-53f4-4cc5-ba73-a90a1e85baa9)
 ![PHOTO-2024-03-07-20-25-32](https://github.com/ss14740/MachineLab/assets/98390888/72052c68-f7fe-4ec3-a944-98d9d7079b69)
