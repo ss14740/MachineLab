@@ -1,0 +1,6 @@
+Documentation and Reflection
+- 
+
+I thoroughly enjoyed working on this project. It challenged me and taught me a lot about machines, as well as sparked a newfound interest in physical computation. As I'm not the most hands-on person, I was slightly nervous about this course, but when the ferris wheel started getting underway, I became more and more excited to build towards the final result. 
+
+Although my group had a rocky start, I am proud that we were able to push through and create an aesthetic, functioning machine in the end. It was difficult for us to accept that our initial idea for the rollercoaster would not work, and this further delayed us. However, with inspiration from Professor Shiloh, we were able to rally behind the ferris wheel project. I don't see the hours spent on the rollercoaster as time wasted; however, as it taught us what worked and what didn't. For the ferris wheel, I worked hard on making it as visually pleasing as I could in the limited time left. When I think of a ferris wheel, I think of fireworks and star-watching, as well as a city skyline and people below. We implemented these elements to create more dimension and life into our project, as well as used neopixels to capture attention. Although we only used one motor (for the ferris wheel), the end result is one that I am extremely proud of.  
